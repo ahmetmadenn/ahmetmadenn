@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 📫 How to reach me **ahmetmaden@gmail.com**
+- 📫 How to reach me **a.maden541@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
