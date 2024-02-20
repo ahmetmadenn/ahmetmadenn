@@ -1,5 +1,5 @@
 
-<img src="https://github.com/ahmetmadenn/ahmttmdn/blob/main/upload/tenor.gif" alt="tenor.gif">
+<img src="https://github.com/ahmetmadenn/ahmttmdn/blob/main/upload/tenor.gif" alt="tenor.gif" style="text-align:center;">
 
 
 <h1 align="center">Hi 👋, I'm Ahmet Maden</h1>
