@@ -1,3 +1,7 @@
+
+<img src="https://github.com/ahmetmadenn/ahmttmdn/blob/main/upload/tenor.gif" alt="tenor.gif">
+
+
 <h1 align="center">Hi 👋, I'm Ahmet Maden</h1>
 <h3 align="center">Software Dev. | Student</h3>
 
