@@ -3,10 +3,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Ahmet Maden</h1>
+<img align="center" src="https://github.com/ahmetmadenn/ahmttmdn/blob/main/upload/tenor.gif" alt="tenor.gif">
+
 <h3 align="center">Software Dev. | Student</h3>
 
 
-<img src="https://github.com/ahmetmadenn/ahmttmdn/blob/main/upload/tenor.gif" alt="tenor.gif">
 
 
 - 🌱 I’m currently learning **Laravel**
