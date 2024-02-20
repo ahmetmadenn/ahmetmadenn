@@ -6,7 +6,7 @@
 <h3 align="center">Software Dev. | Student</h3>
 
 
-<img src="https://github.com/ahmetmadenn/ahmttmdn/blob/main/upload/tenor.gif" alt="tenor.gif" style="margin-left:30px;" ">
+<img src="https://github.com/ahmetmadenn/ahmttmdn/blob/main/upload/tenor.gif" alt="tenor.gif">
 
 
 - 🌱 I’m currently learning **Laravel**
