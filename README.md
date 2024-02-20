@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmet Maden</h1>
 <h3 align="center">Software Dev. | Student</h3>
+<video width="320" height="240" controls>
+  <source src="[video.mp4](https://youtu.be/dEQ6Tl1T9aU?si=YiQ0_hl_4IA891WK)" type="video/mp4">
+  Tarayıcınız video etiketini desteklemiyor.
+</video>
 
 - 🌱 I’m currently learning **Laravel**
 
