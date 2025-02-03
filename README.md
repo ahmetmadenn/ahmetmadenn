@@ -6,7 +6,7 @@
 <div align="center">
 
 
-<h3 align="center">Software Dev. | Student</h3>
+<h3 align="center">Software Developer</h3>
 
  
 </div>
